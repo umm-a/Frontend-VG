@@ -1,0 +1,108 @@
+
+/*assortment*/
+.box{
+    background: lightblue;
+    border: 1px solid dodgerblue;
+    min-height: 10rem;
+    font-size: 2rem;
+}
+
+.navbar{
+    background: white;
+    border-bottom: 3px solid rgb(41, 41, 67) ;
+}
+.category{
+    background:white;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    padding-top: 3rem;
+}
+
+.card-title{
+    font-size: 1rem;
+    font-weight: 600;
+ 
+}
+.card-text{
+    color: rgb(108, 106, 106);
+}
+.category_header{
+    color: rgb(86, 92, 106);
+   padding: 1rem;
+}
+.card{
+    width: 100%;
+}
+.card-body{
+   display:flex;
+   flex-direction: column;
+   justify-content: flex-end;
+}
+.card-footer{
+    background: none;
+    border-top: none;
+}
+.rating{
+    font-size: small;
+    margin-bottom: 0;
+}
+.card-img-top{
+  padding: 20px;
+    
+}
+.price{
+    font-size: larger;
+}
+.linkModal{
+    text-decoration: none;
+}
+.btn{
+    z-index: 1;
+}
+
+
+/*orderForm*/
+.page_header{
+    margin: 2rem;
+}
+
+#yourInformation{
+    border: solid 1px lightblue;
+
+}
+
+#yourProducts{
+    border: solid 1px lightblue;
+ 
+}
+
+#cart{
+    margin-top: 1rem;
+}
+
+
+#totalPrice{
+    padding-top: 0.5rem;
+    margin-top: 1rem;
+    border-top: 1px dotted;
+}
+
+#btn_clearCart{
+    width: 7rem;
+ }
+
+ .font-open-sans {
+    font-family: 'Open Sans', sans-serif;
+ }
+
+ .float-right {
+    float: right;
+ }
+
+ .width-20 {
+    width: 20%;
+ }
+
+ .p-normal {
+    font-size: 100%;
+ }

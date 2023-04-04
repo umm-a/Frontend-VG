@@ -1,0 +1,99 @@
+.grey {
+    background-color: #2b282607;
+}
+
+.start-color {
+    background-color: #ececec;
+}
+
+.form-control:focus {
+    border-color: #ffffff;
+    box-shadow: 0 0 0 0.2rem #ffffff40;
+}
+
+.input-correct {
+    background-color: #b5cfb5 !important;
+    border-color: #7c9a7c;
+    border-width: 1.5px;
+}
+
+.input-not-correct {
+    background-color: #ffe1e1 !important;
+    border-color: #ed877c;
+    border-width: 1.5px;
+}
+
+#form-error {
+    color: #da6e62;
+}
+
+.centered {
+    text-align: center;
+}
+
+.width-30 {
+    width: 30%;
+}
+
+.width-70 {
+    width: 70%;
+}
+
+.margin-0 {
+    margin: 0 0 0 0;
+}
+
+.productImg {
+    width: 80%;
+    height: 40%;
+}
+
+h2 {
+    font-size: 300%;
+}
+
+p {
+    font-size: 200%;
+}
+
+.form-group {
+    margin-bottom: 1.2%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-80 {
+    font-size: 80%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-150 {
+    font-size: 150%;
+}
+
+.pt-10 {
+    padding-top: 10%;
+}
+
+.white-field {
+    background-color: #ffffff !important;
+    border-color: #ffffff;
+    border-width: 1.5px;
+}
+
+.paragraph {
+    font-size: 100%;
+}
+
+.pb-20 {
+    padding-bottom: 20%;
+}
+
+li {
+    list-style-type: none;
+}
